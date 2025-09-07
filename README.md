@@ -1,9 +1,11 @@
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"  />
+<div align="center">
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"  />
+</div>
 
 ###
 
-<h1 align="left">👋 Hi there! I am Raj.</h1>
 
+<h1 align="center">👋 Hi there! I am Raj.</h1>
 
 <p align="left">🎓 Student | 💻 Future developer & cybersecurity analyst  <br>🔧 Learning to code | 🛠️ Built small projects  <br>🌐 Exploring networking | 🔐 Interested in security  <br>🎮 Love gaming | 🚀 Enjoy building tech  <br>📚 Always learning | 🤝 Open to teamwork  <br>🧠 Curious thinker | 💡 Problem solver  <br>🧪 Trying new tools | 🔍 Studying system design  <br>📈 Growing skills | 🗂️ Exploring tech</p>
 
@@ -11,16 +13,16 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rajlama5085/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/users/514408834404712461" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.youtube.com/@zen1tsu_s533" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="60" height="40" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50" height="40" alt="youtube logo"  />
   </a>
   <a href="https://www.twitch.tv/zen1tsu_s" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="60" height="40" alt="twitch logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="50" height="40" alt="twitch logo"  />
   </a>
 </div>
 
