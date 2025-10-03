@@ -8,34 +8,25 @@
 <h1 align="center">👋 Hi there! I am Raj.</h1>
 
 ###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/rajlama5085/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <div style="display: inline-block; text-align: center; margin-right: 15px;">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo" />
-      <p style="margin: 5px 0 0 0; font-size: 14px; color: white;">LinkedIn</p>
-    </div>
+<div align="left" style="display: flex; gap: 20px;">
+  <a href="https://www.linkedin.com/in/rajlama5085/" target="_blank" rel="noopener noreferrer" style="text-align: center; text-decoration: none; color: inherit;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo" />
+    <div>LinkedIn</div>
   </a>
 
-  <a href="https://discord.com/users/514408834404712461" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <div style="display: inline-block; text-align: center; margin-right: 15px;">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="discord logo" />
-      <p style="margin: 5px 0 0 0; font-size: 14px; color: white;">Discord</p>
-    </div>
+  <a href="https://discord.com/users/514408834404712461" target="_blank" rel="noopener noreferrer" style="text-align: center; text-decoration: none; color: inherit;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="discord logo" />
+    <div>Discord</div>
   </a>
 
-  <a href="https://www.youtube.com/@zen1tsu_s533" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <div style="display: inline-block; text-align: center; margin-right: 15px;">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="30" alt="youtube logo" />
-      <p style="margin: 5px 0 0 0; font-size: 14px; color: white;">YouTube</p>
-    </div>
+  <a href="https://www.youtube.com/@zen1tsu_s533" target="_blank" rel="noopener noreferrer" style="text-align: center; text-decoration: none; color: inherit;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="30" alt="youtube logo" />
+    <div>YouTube</div>
   </a>
 
-  <a href="https://www.twitch.tv/zen1tsu_s" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <div style="display: inline-block; text-align: center; margin-right: 15px;">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="40" height="30" alt="twitch logo" />
-      <p style="margin: 5px 0 0 0; font-size: 14px; color: white;">Twitch</p>
-    </div>
+  <a href="https://www.twitch.tv/zen1tsu_s" target="_blank" rel="noopener noreferrer" style="text-align: center; text-decoration: none; color: inherit;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="40" height="30" alt="twitch logo" />
+    <div>Twitch</div>
   </a>
 </div>
 
