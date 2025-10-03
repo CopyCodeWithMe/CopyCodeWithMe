@@ -11,18 +11,34 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rajlama5085/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
+    <div style="display: inline-block; text-align: center; margin-right: 10px;">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo" />
+      <p style="margin: 5px 0 0 0; font-size: 14px;">LinkedIn</p>
+    </div>
   </a>
+
   <a href="https://discord.com/users/514408834404712461" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="discord logo"  />
+    <div style="display: inline-block; text-align: center; margin-right: 10px;">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="discord logo" />
+      <p style="margin: 5px 0 0 0; font-size: 14px;">Discord</p>
+    </div>
   </a>
+
   <a href="https://www.youtube.com/@zen1tsu_s533" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="30" alt="youtube logo"  />
+    <div style="display: inline-block; text-align: center; margin-right: 10px;">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="30" alt="youtube logo" />
+      <p style="margin: 5px 0 0 0; font-size: 14px;">YouTube</p>
+    </div>
   </a>
+
   <a href="https://www.twitch.tv/zen1tsu_s" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="40" height="30" alt="twitch logo"  />
+    <div style="display: inline-block; text-align: center; margin-right: 10px;">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="40" height="30" alt="twitch logo" />
+      <p style="margin: 5px 0 0 0; font-size: 14px;">Twitch</p>
+    </div>
   </a>
 </div>
+
 
 ###
 
