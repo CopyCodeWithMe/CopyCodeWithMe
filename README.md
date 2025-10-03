@@ -8,27 +8,37 @@
 <h1 align="center">👋 Hi there! I am Raj.</h1>
 
 ###
-<div align="left" style="display: flex; gap: 20px;">
-  <a href="https://www.linkedin.com/in/rajlama5085/" target="_blank" rel="noopener noreferrer" style="text-align: center; text-decoration: none; color: inherit;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo" />
-    <div>LinkedIn</div>
-  </a>
+### Connect with me  
 
-  <a href="https://discord.com/users/514408834404712461" target="_blank" rel="noopener noreferrer" style="text-align: center; text-decoration: none; color: inherit;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="discord logo" />
-    <div>Discord</div>
-  </a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/rajlama5085/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="LinkedIn" /><br>
+        LinkedIn
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://discord.com/users/514408834404712461" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="Discord" /><br>
+        Discord
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/@zen1tsu_s533" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="30" alt="YouTube" /><br>
+        YouTube
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.twitch.tv/zen1tsu_s" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="40" height="30" alt="Twitch" /><br>
+        Twitch
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <a href="https://www.youtube.com/@zen1tsu_s533" target="_blank" rel="noopener noreferrer" style="text-align: center; text-decoration: none; color: inherit;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="30" alt="youtube logo" />
-    <div>YouTube</div>
-  </a>
-
-  <a href="https://www.twitch.tv/zen1tsu_s" target="_blank" rel="noopener noreferrer" style="text-align: center; text-decoration: none; color: inherit;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="40" height="30" alt="twitch logo" />
-    <div>Twitch</div>
-  </a>
-</div>
 
 ###
 
