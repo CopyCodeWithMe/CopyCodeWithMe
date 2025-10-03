@@ -9,6 +9,7 @@
 
 ###
 ### Connect with me  
+### Connect with me  
 
 <table>
   <tr>
@@ -38,7 +39,6 @@
     </td>
   </tr>
 </table>
-
 
 ###
 
